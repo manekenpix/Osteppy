@@ -19,5 +19,5 @@ dist/
 typings/
 
 # Config files
-config-files/
+config_files/
 !config-files/.gitkeep
